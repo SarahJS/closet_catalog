@@ -26,3 +26,8 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+## Railsgirls 2016
+- - - - - - - - - - - -
+### Closet Catalog App
+*Made by* **Sarah Sedky**
